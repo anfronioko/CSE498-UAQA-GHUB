@@ -1,6 +1,7 @@
 {
   "name": "aircraft-appearance-assessment-tool",
   "version": "0.1.0",
+  "homepage": "https://anfronioko.github.io/CSE498-UAQA-GHUB",
   "private": true,
   "dependencies": {
     "11": "^0.0.1",
